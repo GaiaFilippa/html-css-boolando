@@ -54,8 +54,13 @@ p  {
     text-align: left;
     background-color: black;
     display: flex;
+    justify-content: space-between;
 }
 
 .footer-content  {
-    margin-left: 30%;
+    margin: auto;
+}
+
+.footer-icons {
+    margin:auto;
 }
