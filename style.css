@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.8
+}
+
+
+.header  {
+    text-align: center;
+    background-color: orange;
+}
+
+.header-content  {
+    display: flex;
+    justify-content: space-around;
+}
